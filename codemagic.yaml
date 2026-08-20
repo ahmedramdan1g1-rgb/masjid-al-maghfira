@@ -34,6 +34,4 @@ workflows:
     artifacts:
       - build/app/outputs/flutter-apk/*.apk
       - build/app/outputs/**/mapping.txt
-    publishing:
-      email:
-        recipients: [ahmedramdan1g1@gmail.com]
+    
